@@ -40,6 +40,11 @@
             "description": "ايدي البوت",
             "value": "",
             "required": true
+        },
+        "MAX_ACCOUNTS": {
+            "description": "عدد الحسابات",
+            "value": "",
+            "required": true
     }
   }
 } 
